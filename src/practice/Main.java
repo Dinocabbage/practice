@@ -13,5 +13,8 @@ public class Main implements Greeting{
 		
 		Main m = new Main();
 		m.hi();
+		
+		Hyun hyun = new Hyun();
+		hyun.hi();
 	}
 }
